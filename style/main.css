@@ -1,0 +1,33 @@
+.img{
+    width: 230px;
+    height:130PX;
+    position: absolute;
+    top: 20px;
+    left: 50px;
+    bottom: 0px;
+    right:0px;
+}
+.net{
+    position: absolute;
+    top: 200px;
+}
+.btn{
+    background-color:#3b5998;
+     position: absolute;
+    right: 35px; 
+    top: 25px;
+    color:white;
+}
+
+.pswrd{
+    background-color: black;
+     
+}
+.fac_head{
+    background-color:#3b5998;
+    height: 100px;
+    width:100%;
+     position: absolute;
+    right: 0px;
+    top:0px
+}
